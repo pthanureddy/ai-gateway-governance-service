@@ -1,0 +1,1 @@
+{"version":"policy-v1","cache_ttl_seconds":60,"tenants":{"design":{"models":["local-grounded-v1"],"labels":["internal"],"daily_token_budget":50000},"operations":{"models":["local-grounded-v1"],"labels":["internal","restricted"],"daily_token_budget":50000}}}

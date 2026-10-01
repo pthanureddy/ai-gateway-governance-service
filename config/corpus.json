@@ -1,0 +1,6 @@
+[
+ {"id":"materials-policy","tenant":"design","label":"internal","text":"Synthetic materials policy: design review records the metal source and finish. Material changes require a new review."},
+ {"id":"design-budget","tenant":"design","label":"restricted","text":"Synthetic budget record: unreleased design funding is restricted to approved reviewers."},
+ {"id":"stock-transfer","tenant":"operations","label":"internal","text":"Synthetic stock transfer policy: record source and destination locations before a stock transfer. Reconcile mismatched quantities."},
+ {"id":"incident-routing","tenant":"operations","label":"restricted","text":"Synthetic incident policy: contain gateway credential exposure by revoking the affected credential, disabling upstream access and escalating to the incident owner."}
+]

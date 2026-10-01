@@ -112,6 +112,8 @@ GitHub Actions runs Python lint/tests/coverage and wheel build, a real PostgreSQ
 service-container integration test, Docker image build, and Terraform validation
 plus mock policy tests. Docker is verified in hosted CI, not by the unavailable
 local Docker daemon.
+See [executed verification](docs/verification.md) for commands, measured coverage,
+test counts and the successful hosted run.
 
 ## Deliberate limitations
 
